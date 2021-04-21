@@ -1,0 +1,10 @@
+{
+    "name": "Mini Hackathon",
+    "blocks": {
+        "/blockchain/conflux": true,
+        "/blockchain/conflux/solidity": true,
+        "/framework/vanilla": true,
+        "/category/nft/core-composable_nft": true,
+        "/category/nft/core-composable_nft/template": "collectible"
+    }
+}
